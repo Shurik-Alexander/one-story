@@ -1,0 +1,25 @@
+text1 = `
+Once upon a time, in a forgotten place, four people went from their native village to a distant city, which was famous for its truly city-sized market. There they sold fish, meat, spices, sweets, bread, fruits and vegetables. And their names were Oliver, Jack, Harry and Thomas.
+`
+
+text2 = `
+Suddenly wolves jumped out of the forest and surrounded them, Harry grabbed a stick, Oliver took out a knife, Thomas went into hand-to-hand combat, and Jack preferred to throw stones. They managed to fight back, but Thomas was wounded.
+`
+
+text3 = `
+Thomas was dragged to the nearest village. On the first day, doctors thought it would take months to recover, but on the second day, Thomas miraculously almost recovered. And on the third day, he died of an infection.
+`
+
+text4 = `
+It was sunset. Despite the loss of their comrade they continued on, but after only one mile Jack stepped on a nail, Harry and Oliver tried to drag him to the same village, but due to the inability to provide first aid, every minute counted, and after only half a mile Jack died from loss of blood.
+`
+
+text5 = `
+Harry and Oliver, shocked by the loss of two friends, went back to their native village and met bandits, with a very unfriendly look. The bandits kidnapped Harry and Oliver, and no one saw them again.
+`
+
+document.getElementById("text1").textContent = text1;
+document.getElementById("text2").textContent = text2;
+document.getElementById("text3").textContent = text3;
+document.getElementById("text4").textContent = text4;
+document.getElementById("text5").textContent = text5;

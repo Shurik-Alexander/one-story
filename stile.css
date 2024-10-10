@@ -1,0 +1,23 @@
+body {
+	font-family: "PT Sans", "Arial", sans-serif;
+	background-color: #d2b48c;
+	font-size: 25;
+}
+
+div.head {
+	text-align: center;
+	background-color: #b68f71;
+	font-size: 20;
+}
+
+.paragraph {
+	font-family: "PT Sans", "Arial", sans-serif;
+	background-color: #b68f71;
+	font-size: 25;
+	padding: 10;
+}
+
+.ind {
+	color: rgba(0, 0, 0, 0);
+	font-size: 100;
+}
